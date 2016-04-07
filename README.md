@@ -1,5 +1,9 @@
 # VKReposter
-This is JS+iMacros script that makes reposts from some publics in vk.com.
-Use it with Palemoon browser
-
 Script adress: iMacros/Macros/Reposter.js
+
+Скрипт JavaScript+iMacros*.
+Работает с группами типа Бесплатно за репост на vk.com
+Делает репост на стену авторизованного пользователя новых публикаций в группе.
+Есть проверка на тип записи.
+
+iMacros — это программа, которая позволяет сохранять и воспроизводить действия пользователя. Распространяется, как в виде платной версии, с бо́льшим функционалом, так и в виде расширений для браузеров Mozilla Firefox, Google Chrome... https://ru.wikipedia.org/wiki/IMacros
